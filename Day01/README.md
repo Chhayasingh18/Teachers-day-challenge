@@ -4,6 +4,6 @@
 1. Two Sum (Arrays - Easy)
 2. Remove Linked List Elements (Linked List - Easy)
 
-LeetCode Profile: (https://leetcode.com/u/KpFM0tUzpq/)
+LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/)
 
 ---
