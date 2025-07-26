@@ -12,4 +12,6 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 
 | Day | Problems Solved | Topics | Difficulty |
 |-----|----------------|--------|------------|
-| 1   | Two Sum, Remove Linked List Elements | Arrays, Linked List | Easy, Easy |
+| 1   | Group Anagrams, Remove Linked List Elements | Arrays, Linked List | Easy, Easy |
+| 2   | Two Sum, Same Tree | Strings, Trees | Medium, Easy |
+
