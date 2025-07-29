@@ -16,6 +16,7 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 | 2   | Group Anagrams, Same Tree | Strings, Trees | Medium, Easy |
 | 3   | Top K Frequent Elements, Invert Binary Tree | Heap, Trees | Medium, Easy |
 | 4   | 	Best Time to Buy and Sell Stock, Min Stack | Arrays, Stack | Easy, Medium |
+| 5   | 	Merge Intervals, Maximum Depth of Binary Tree | Arrays, Trees | Medium, Easy |
 
 LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/)
 
