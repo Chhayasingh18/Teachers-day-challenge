@@ -18,6 +18,11 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 | 4   | 	Best Time to Buy and Sell Stock, Min Stack | Arrays, Stack | Easy, Medium |
 | 5   | 	Merge Intervals, Maximum Depth of Binary Tree | Arrays, Trees | Medium, Easy |
 | 6   | 	Maximum Subarray, Reverse Linked List | Arrays, Linked List | Easy, Easy |
+| 7   | 		Watermelon, Way Too Long Words |	Implementation, Strings | Easy, Easy |
 
-LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/)
+LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/) 
+
+CODEFORCES Profile: (https://codeforces.com/profile/chhaya_singh11/)
+
+
 
