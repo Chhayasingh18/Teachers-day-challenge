@@ -20,6 +20,7 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 | 6   | 	Maximum Subarray, Reverse Linked List | Arrays, Linked List | Easy, Easy |
 | 7   | 		Watermelon, Way Too Long Words |	Implementation, Strings | Easy, Easy |
 | 8   | 		Next Round, 	Beautiful Matrix |		Sorting, Math | Easy, Easy |
+| 9   | 		Petya and Strings, 	Team |		Strings, Brute Force | Easy, Easy |
 
 LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/) 
 
