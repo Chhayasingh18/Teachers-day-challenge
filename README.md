@@ -25,7 +25,7 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 | 11  | George and Accommodation, Word | Greedy, Strings | Easy, Easy |
 | 12  | Boy or Girl, Stones on the Table | Sets & Strings, Greedy| Easy-Medium, Easy-Medium |
 | 13  | Drinks, Football| Math, Strings | Easy-Medium, Easy-Medium |
-| 13  | Dubstep, Presents| 	Simulation, 	Sets | Easy-Medium, Easy-Medium |
+| 14  | Dubstep, Presents| 	Simulation, 	Sets | Easy-Medium, Easy-Medium |
 
 LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/) 
 
