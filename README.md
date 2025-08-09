@@ -27,6 +27,7 @@ This repository contains my daily solutions for the Teacher’s Day Challenge 20
 | 13  | Drinks, Football| Math, Strings | Easy-Medium, Easy-Medium |
 | 14  | Dubstep, Presents| 	Simulation, 	Sets | Easy-Medium, Easy-Medium |
 | 15  | Horseshoe, Queue at the School|  Sets, Simulation	 | Easy-Medium, Easy-Medium |
+| 16  | Xenia and Ringroad, I Wanna Be the Guy|  Implementation, Sets	 | Easy-Medium, Easy-Medium |
 
 
 LeetCode Profile: (https://leetcode.com/u/bG0r1VPh13/) 
